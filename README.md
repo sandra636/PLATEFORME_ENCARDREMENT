@@ -107,7 +107,7 @@ Membre 3 : Interface Étudiant + Base de données
 
 Fonctionnalités Transversales (à partager)
 
-### Sorties écran communes :
+### Sorties écran commune :
 - Historiques des échanges
 - Liste des encadrements par classe
 - Liste des encadrements par type
